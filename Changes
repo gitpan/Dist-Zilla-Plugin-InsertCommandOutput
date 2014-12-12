@@ -1,0 +1,11 @@
+Revision history for Dist-Zilla-Plugin-InsertCommandOutput
+
+0.02     2014-12-12 (PERLANCAR)
+
+         - Rename module/dist from Dist-Zilla-Plugin-InsertCommandResult to
+           Dist-Zilla-Plugin-InsertCommandOutput.
+
+
+0.01     2014-12-12 (PERLANCAR)
+
+         - First release.
