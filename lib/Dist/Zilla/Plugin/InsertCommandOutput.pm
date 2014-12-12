@@ -1,7 +1,7 @@
 package Dist::Zilla::Plugin::InsertCommandOutput;
 
 our $DATE = '2014-12-12'; # DATE
-our $VERSION = '0.01'; # VERSION
+our $VERSION = '0.02'; # VERSION
 
 use 5.010001;
 use strict;
@@ -63,7 +63,7 @@ Dist::Zilla::Plugin::InsertCommandOutput - Insert the output of command into you
 
 =head1 VERSION
 
-This document describes version 0.01 of Dist::Zilla::Plugin::InsertCommandOutput (from Perl distribution Dist-Zilla-Plugin-InsertCommandOutput), released on 2014-12-12.
+This document describes version 0.02 of Dist::Zilla::Plugin::InsertCommandOutput (from Perl distribution Dist-Zilla-Plugin-InsertCommandOutput), released on 2014-12-12.
 
 =head1 SYNOPSIS
 
